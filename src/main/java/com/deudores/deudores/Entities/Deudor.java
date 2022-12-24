@@ -22,7 +22,7 @@ public class Deudor {
     private Long idDeudor;
 
     @Column(name = "nombre_deudor")
-    private String nombre;
+    private String nombreDeudor;
 
     @Column(name = "tipo_documento")
     private String tipoDocumento;
